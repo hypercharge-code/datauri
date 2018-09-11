@@ -12,6 +12,8 @@ logs
 results
 
 node_modules
+lib/datauri/old
+lib/datauri-cli
 dist
 npm-debug.log
 test/coverage
